@@ -6,11 +6,8 @@
 
 ![image](https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-0.gif)
 
-
 <div>
   <a href="[https://github.com/gabrielvicttor](https://github.com/gabrielvicttor)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielvicttor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvicttor&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   <br>
   <h3> 📝 languages <br></h3>
