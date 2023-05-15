@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Profile dedicated to Gabriel Victtor's codes </h2>
 
-<!--
-**GabrielVicttor/GabrielVicttor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hi, everybody!🤘🏼
+- I'm from Recife, Pe - Brasil📌🦀 
+- Systems Analysis and Development Student 💻
 
-Here are some ideas to get you started:
+![image](https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-0.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="[https://github.com/gabrielvicttor](https://github.com/gabrielvicttor)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielvicttor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvicttor&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  <br>
+  <h3> 📝 languages <br></h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="gabrielvicttor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gabrielvicttor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gabrielvicttor.jS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ </div>
